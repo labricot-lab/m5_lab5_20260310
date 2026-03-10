@@ -1,0 +1,7 @@
+/home/codio/workspace:
+directory_structure.txt
+httpCycle.py
+product1.png
+product2.png
+README.md
+storage_backup.tar.gz
